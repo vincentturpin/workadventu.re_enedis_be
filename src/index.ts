@@ -4,4 +4,4 @@
 // The "WA" global object is available from anywhere.
 
 console.log('Script started successfully');
-WA.openCoWebSite('https://workadventu.re');
+//WA.openCoWebSite('https://sixenedis.atlassian.net/wiki/spaces/CS/pages/3190620505/Workaventu.re');
