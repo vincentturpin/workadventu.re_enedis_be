@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/cinke-evolution\/cinke-evolution\/Be2eme"
+                 "value":"\/Be2eme"
                 }],
          "type":"tilelayer",
          "visible":true,
