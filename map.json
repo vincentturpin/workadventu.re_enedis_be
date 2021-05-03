@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"Be3eme.json"
+         "target":"map.json"
         }
     },
  "height":26,

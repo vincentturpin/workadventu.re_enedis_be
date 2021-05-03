@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"Be3eme.json"
+         "target":"map.json"
         }
     },
  "height":26,
@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/cinke-evolution\/cinke-evolution\/Be3eme"
+                 "value":"..\/cinke-evolution\/cinke-evolution\/Be3eme"
                 }],
          "type":"tilelayer",
          "visible":true,
