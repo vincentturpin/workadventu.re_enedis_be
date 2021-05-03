@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/Be2eme"
+                 "value":"..\/workadventu.re_enedis_be\/Be2eme.json\n"
                 }],
          "type":"tilelayer",
          "visible":true,
